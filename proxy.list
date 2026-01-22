@@ -1,5 +1,6 @@
 # 国外域名
-#DOMAIN-SUFFIX,eu
+DOMAIN-SUFFIX,kmbox.top
+DOMAIN-SUFFIX,technical.city
 
 # 国外域名关键字
 #DOMAIN-KEYWORD,1e100
